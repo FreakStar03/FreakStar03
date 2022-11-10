@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chirag Padyal</h1>
 <h3 align="center">A passionate frontend developer & Backend developer from India</h3>
 
-- 🔭 I’m currently working on [Packet Tracer](https://github.com/YadavGulshan/packet-analyzer)
+- 🔭 I’m currently working on [Npm Gui](https://github.com/FreakStar03/npm-gui)
 
 - 📫 How to reach me **chirag.padyal@gmail.com**
 
+- Blogs **[chiragpadyal.me](https://chiragpadyal.me)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/14295892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14295892" height="30" width="40" /></a>
