@@ -7,5 +7,5 @@
 
 - Blogs **[chiragpadyal.me](https://chiragpadyal.me)**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freakstar03&show_icons=true&locale=en" alt="freakstar03" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiragpadyal&show_icons=true&locale=en" alt="chiragpadyal" /></p>
 
