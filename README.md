@@ -54,18 +54,6 @@
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragpadyal&show_icons=true&theme=radical&size_weight=0.5&count_weight=0.5&icon_color=79ff97&text_color=efefef&bg_color=24292e" width="37%" alt="Chirag Padyal's Top Languages">
 
-
-### :zap: Recent Github Activity
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
-
-<br>
-
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
