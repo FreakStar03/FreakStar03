@@ -61,6 +61,9 @@
 
 <!--END_SECTION:activity-->
 
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+
 <br>
 
 <div align="center">
